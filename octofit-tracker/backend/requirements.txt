@@ -1,0 +1,6 @@
+# Requisitos para el backend de OctoFit Tracker
+# Basado en la guía de Monafit Tracker
+
+django
+djangorestframework
+
